@@ -1,5 +1,8 @@
 ![катинка](images/git.png)
 
+# Git Основи
+https://www.youtube.com/watch?v=-wDsS8DiqK0
+
 # Git и GitHub для совместной работы над проектом (Теорія)
 
 https://www.youtube.com/watch?v=2qfyLfXEPzs
