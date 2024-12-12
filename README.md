@@ -18,3 +18,8 @@ https://www.youtube.com/watch?v=rnfHuWneMXA&t=17s
 # Основы Git за 20 минут (Практика)
 
 https://www.youtube.com/watch?v=TMeZGvtQnT8
+
+#Команди
+git clone {url}gitрепозиторія
+cd ім'я папки 
+code . - відкриття склонированного репозиторію в VS Code
