@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=TMeZGvtQnT8
 git clone {url}gitрепозиторія
 cd ім'я папки 
 code . - відкриття склонированного репозиторію в VS Code
+git branch - подивитися які є гілки в проекті
+gif branch dev - створення нової гілки dev
+git checkout master - переключитися на гілку мастер
